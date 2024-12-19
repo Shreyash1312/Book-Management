@@ -1,2 +1,1 @@
-# SamsTrack
-The scope of the SamsTrack project involves developing a REST API to manage student  attendance, including functionalities for handling Students, Subjects, Faculty, and Attendance  Records.
+A Book Management System in a Spring Boot project is an application that allows users to perform CRUD (Create, Read, Update, Delete) operations on books in a library or book store context. This system can be designed to manage books, authors, categories, and user interactions like borrowing or purchasing books, viewing details, and searching for books.
